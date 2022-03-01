@@ -1,5 +1,7 @@
 # Dook
-对标柠檬书（现橘子）的nonebot机器人  
+对标柠檬书（现橘子）的nonebot机器人
+<h5>所需库</h5>
+<p>nonebot2  PIL</p>
 <h5>关于一些配置(其实也算不上配置这个说法)</h5>  
 <p>1 图灵.py里的思知机器人appid和userid，第28行机器人名字
   <br>
