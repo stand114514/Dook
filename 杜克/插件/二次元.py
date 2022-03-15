@@ -1,4 +1,3 @@
-from sre_parse import State
 import requests 
 from nonebot.plugin import on_keyword
 from nonebot.adapters.onebot.v11 import Bot, Event, MessageSegment
